@@ -1,0 +1,8 @@
+#header h1 {
+text-align: right;
+}
+#footer {
+    background: black; 
+    color: beige;
+    display: flex;
+}
